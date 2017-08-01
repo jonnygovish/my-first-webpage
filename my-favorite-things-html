@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>My Favorite Things </title>
+      <link  href ="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <h1>Issa Favorite Tings</h1>
+    <p>Hey, I dont mean to bore you, but since you are here, lets get it over with.<br />
+
+    My Favorite things are:</p>
+    <ul>
+        <li>sleeping</li>
+        <li>watching anime</li>
+        <li>coding</li>
+      </ul>
+    </body>
+</html>
